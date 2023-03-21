@@ -1,0 +1,10 @@
+{
+  "package": {
+    "dependencies": {
+      "@strapi/plugin-graphql": "^4.0.0"
+    },
+    "scripts": {
+      "custom": "node ./scripts/custom.js"
+    }
+  }
+}
